@@ -1,60 +1,85 @@
-👋 Hi, I'm Alisha Attar!
-💻 Computer Science Graduate | MCA Student | Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm Alisha Attar, a Computer Science graduate currently pursuing my MCA. I enjoy learning new technologies, building projects, solving problems, and continuously improving my technical skills.
+Hi, I'm Alisha Attar 👋
+Computer Science Graduate | MCA Student | Aspiring Software Developer
 
-I'm passionate about technology and excited to grow as a developer through hands-on projects, collaboration, and continuous learning. 🚀
+Welcome to my GitHub profile!
 
-👩‍💻 About Me
-🎓 Completed my B.Sc. in Computer Science
+I'm Alisha Attar, a Computer Science graduate currently pursuing my Master of Computer Applications (MCA). I enjoy learning new technologies, developing projects, solving problems, and continuously improving my technical skills.
+
+About Me
+🎓 Completed B.Sc. in Computer Science
 📚 Currently pursuing MCA
-💻 Skilled in Java, Python, HTML, CSS & JavaScript
-🌱 Continuously learning and improving my development skills
-🧩 Interested in building practical and meaningful projects
-🚀 Always looking for opportunities to learn, create, and grow
-🎯 Working towards becoming a skilled and versatile software professional
-🛠️ Languages & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,html,css,js" /> </p>
-💻 My Tech Stack
-Technology	Level of Experience
-☕ Java	Programming & Development
-🐍 Python	Programming & Problem Solving
-🌐 HTML	Web Development
-🎨 CSS	Web Design & Styling
-⚡ JavaScript	Web Development
-🌱 Currently Learning
+💻 Comfortable with Java, Python, HTML, CSS, and JavaScript
+🌱 Continuously learning and exploring new technologies
+🧩 Enjoy building projects and applying what I learn
+🚀 Interested in growing as a software professional
+💡 Believe in learning through practice and hands-on experience
+Technical Skills
+Programming Languages
+Java
+Python
+JavaScript
+Web Technologies
+HTML
+CSS
+JavaScript
+Currently Learning
 
-As an MCA student, I'm continuously expanding my knowledge and working on improving my programming and development skills.
+As an MCA student, I'm working on strengthening my technical foundation and gaining more practical experience.
 
-📚 Advanced programming concepts
-🧠 Data Structures & Algorithms
-💻 Software development
-🌐 Web technologies
-🛠️ Building real-world projects
-🎯 My Goals
-🚀 Become a strong and confident software developer
-💻 Build real-world projects that solve practical problems
-📚 Continuously learn new technologies
-🧠 Improve my problem-solving and programming skills
-🤝 Collaborate with other developers and contribute to projects
-🌱 Keep growing both personally and professionally
-⭐ Build a strong portfolio through meaningful projects
-📂 My GitHub Journey
+Data Structures and Algorithms
+Object-Oriented Programming
+Web Development
+Software Development
+Problem Solving
+Building real-world projects
+My Goals
 
-This GitHub profile is a collection of my projects, experiments, learning, and progress as I continue my journey in the world of technology.
+My goal is to become a skilled and confident software professional with strong programming and problem-solving abilities.
 
-I believe that every project is an opportunity to learn something new, and I'm excited to keep building and improving. 💡
+I aim to:
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Alisha's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" /> </p>
-🌐 Connect With Me
-<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> </p>
-✨ A Little About My Journey
+Build practical and meaningful projects
+Strengthen my programming fundamentals
+Improve my problem-solving skills
+Learn and adapt to new technologies
+Gain real-world development experience
+Collaborate with other developers
+Contribute to interesting projects
+Build a strong professional portfolio
+Keep learning and growing throughout my career
+My GitHub Journey
 
-"Every expert was once a beginner." 🌱
+This GitHub profile represents my learning journey as I continue to grow in the field of technology.
 
-I'm at the beginning of an exciting journey in technology, and I'm looking forward to everything there is to learn, build, and discover.
+Here, I share my projects, practice work, experiments, and the things I learn along the way.
 
-Thank you for visiting my profile! 💙
+I believe that consistent learning and hands-on experience are the best ways to improve, and I'm excited to continue building, experimenting, and challenging myself.
 
-⭐ Keep learning. Keep building. Keep growing. 🚀
+What You'll Find Here
+
+You'll find projects and work related to:
+
+Java
+Python
+Web Development
+JavaScript
+Programming Practice
+Academic Projects
+Personal Projects
+Learning Experiments
+A Little About Me
+
+I'm someone who enjoys learning new things and turning knowledge into practical work. I'm currently focused on developing my skills during my MCA and building a strong foundation for my future career.
+
+Every project gives me an opportunity to learn something new, and every challenge is a chance to improve.
+
+"Learn. Build. Improve. Repeat."
+
+Let's Connect
+
+I'm always open to learning, collaborating, and connecting with people who share an interest in technology and software development.
+
+Thank you for visiting my GitHub profile!
+
+Keep learning. Keep building. Keep growing. 🚀
