@@ -1,35 +1,60 @@
-Hi, I'm Alisha Attar 👋
-💻 Computer Science Graduate | Web Developer | Java Programmer
+👋 Hi, I'm Alisha Attar!
+💻 Computer Science Graduate | MCA Student | Aspiring Software Developer
 
-Welcome to my GitHub profile! I'm Alisha Attar, a Computer Science graduate with a passion for building websites and learning new technologies.
+Welcome to my GitHub profile! I'm Alisha Attar, a Computer Science graduate currently pursuing my MCA. I enjoy learning new technologies, building projects, solving problems, and continuously improving my technical skills.
 
-I enjoy turning ideas into functional and user-friendly web experiences, and I also have a strong interest in Java programming and software development.
+I'm passionate about technology and excited to grow as a developer through hands-on projects, collaboration, and continuous learning. 🚀
 
 👩‍💻 About Me
-🎓 Bachelor's degree in Computer Science
-🌐 Skilled in Web Development
-💻 Proficient in HTML, CSS, and JavaScript
-☕ Good knowledge of Java Programming
+🎓 Completed my B.Sc. in Computer Science
+📚 Currently pursuing MCA
+💻 Skilled in Java, Python, HTML, CSS & JavaScript
 🌱 Continuously learning and improving my development skills
-🚀 Interested in building real-world projects and exploring new technologies
-🛠️ Skills & Technologies
-🌐 Web Development
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
-☕ Programming
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> </p>
-📚 What I'm Currently Focusing On
-🌱 Improving my web development skills
-💡 Building practical and creative projects
-☕ Strengthening my Java programming skills
-🚀 Learning new tools and technologies
-🧩 Improving problem-solving and programming skills
+🧩 Interested in building practical and meaningful projects
+🚀 Always looking for opportunities to learn, create, and grow
+🎯 Working towards becoming a skilled and versatile software professional
+🛠️ Languages & Technologies
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,html,css,js" /> </p>
+💻 My Tech Stack
+Technology	Level of Experience
+☕ Java	Programming & Development
+🐍 Python	Programming & Problem Solving
+🌐 HTML	Web Development
+🎨 CSS	Web Design & Styling
+⚡ JavaScript	Web Development
+🌱 Currently Learning
+
+As an MCA student, I'm continuously expanding my knowledge and working on improving my programming and development skills.
+
+📚 Advanced programming concepts
+🧠 Data Structures & Algorithms
+💻 Software development
+🌐 Web technologies
+🛠️ Building real-world projects
 🎯 My Goals
+🚀 Become a strong and confident software developer
+💻 Build real-world projects that solve practical problems
+📚 Continuously learn new technologies
+🧠 Improve my problem-solving and programming skills
+🤝 Collaborate with other developers and contribute to projects
+🌱 Keep growing both personally and professionally
+⭐ Build a strong portfolio through meaningful projects
+📂 My GitHub Journey
 
-My goal is to grow as a software developer by building meaningful projects, gaining practical experience, and continuously expanding my technical knowledge.
+This GitHub profile is a collection of my projects, experiments, learning, and progress as I continue my journey in the world of technology.
 
-I'm always open to learning, collaborating, and creating something new!
+I believe that every project is an opportunity to learn something new, and I'm excited to keep building and improving. 💡
 
-🤝 Let's Connect
-<p> <a href="https://github.com/"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Alisha's GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" /> </p>
+🌐 Connect With Me
+<p align="left"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://skillicons.dev/icons?i=github" width="45" /> </a> <a href="YOUR_LINKEDIN_URL"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> </p>
+✨ A Little About My Journey
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+"Every expert was once a beginner." 🌱
+
+I'm at the beginning of an exciting journey in technology, and I'm looking forward to everything there is to learn, build, and discover.
+
+Thank you for visiting my profile! 💙
+
+⭐ Keep learning. Keep building. Keep growing. 🚀
